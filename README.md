@@ -6,7 +6,7 @@ Game mô phỏng Fruit Ninja, sử dụng để luyện tập Particle System v�
 
 <img width="286" height="559" alt="image" src="https://github.com/user-attachments/assets/f780ee66-4307-42ac-8a8c-620a6789940a" />
 
-<img width="340" height="651" alt="image" src="https://github.com/user-attachments/assets/a06f06c8-6a74-4a74-b5d7-c3ad55171a4b" />
+<img width="286" height="559" alt="image" src="https://github.com/user-attachments/assets/a06f06c8-6a74-4a74-b5d7-c3ad55171a4b" />
 
 
 
